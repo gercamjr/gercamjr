@@ -5,10 +5,10 @@
 - 📫 How to reach me by email: gercamjr.dev@gmail.com
 
 ## Previous Projects
-[Your Best Insta](www.yourbestinsta.com)
-[Wedding RSVP](aleyoscar.com)
-[Personal Blog](wp.geracomdev.com)
-[Hidden Falls Ranc](https://www.hiddenfallsranch.com/)
+- [Your Best Insta](www.yourbestinsta.com)
+- [Wedding RSVP](aleyoscar.com)
+- [Personal Blog](wp.geracomdev.com)
+- [Hidden Falls Ranc](https://www.hiddenfallsranch.com/)
 
 <!---
 gercamjr/gercamjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
