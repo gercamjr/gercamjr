@@ -18,7 +18,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Databases**
 
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"><br>
+<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"><img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"><br>
 <br>
 
 **Tools**
@@ -29,7 +29,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## Some of my stats :bar_chart:
 
-<img src="https://github-readme-stats.vercel.app/api?username=gercamjr&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/story/gercamjr.dev">
+<img src="https://github-readme-stats.vercel.app/api?username=gercamjr&show_icons=true&theme=radical&include_all_commits=true"><a href="https://stackoverflow.com/story/gercamjr.dev">
 
 
 <br>
