@@ -44,4 +44,4 @@ These are some of the major technologies that I use or have worked on in the pas
 -----
 Credits: [Gerardo Camorlinga Jr](https://github.com/gercamjr)
 
-Last Edited on: 14/08/2021
+Last Edited on: 04/06/2022
